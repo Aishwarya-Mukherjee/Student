@@ -1,3 +1,3 @@
 # Student
-This is my First Official Repository
+My First Official Repository
 Author-Aishwarya Mukherjee
